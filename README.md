@@ -10,8 +10,8 @@ Time spent: **1** hour spent in total
 
 The following **required** functionality is complete:
 
-* [X ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ X] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [X] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -22,23 +22,20 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-Possibly adding the ability to use different currencies would improve app functionality and adding transition animations.
+**To further improve the app , we could add some transition animations and also enable the app to display more than one currency**
 
-- [ X] List anything else that you can get done to improve the app functionality!
+- [X] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/jJAGDIS.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-
-There was a difference in the version of XCode in the instructions than the most recent iteration.  As a result, some of the icons and buttons were located in areas not expected.  I did not encounter many challenges completing the pre-work.
 
 ## License
 
